@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.font{
+    font-size: 1.2rem;
+}
+.font-lg{
+    font-size: 1.4rem;
+}
+.btns{
+padding: 8px 25px;
+}
+.style{
+    margin : 0px;
+}
+    /* transition:1s;
+
+/* #side-panel.mystyle{
+     margin : -400px;
+     transition :1s;
+} */
